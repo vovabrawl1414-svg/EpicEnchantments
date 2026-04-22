@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "epicenchantments:item/sack"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "epicenchantments:full": 1
+      },
+      "model": "epicenchantments:item/sack_full"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "enchantment.epicenchantments.web": "Паутина",
+  "enchantment.epicenchantments.web.desc": "Добывает всю жилу руды за раз",
+
+  "enchantment.epicenchantments.magnet": "Магнит",
+  "enchantment.epicenchantments.magnet.desc": "Предметы автоматически попадают в инвентарь",
+
+  "enchantment.epicenchantments.lumberjack": "Лесоруб",
+  "enchantment.epicenchantments.lumberjack.desc": "Валить целые деревья за раз",
+
+  "enchantment.epicenchantments.automelting": "Автоплавка",
+  "enchantment.epicenchantments.automelting.desc": "Автоматически переплавляет добытую руду",
+
+  "enchantment.epicenchantments.experience": "Опытный",
+  "enchantment.epicenchantments.experience.desc": "Даёт дополнительный опыт",
+
+  "item.epicenchantments.scrap": "Кожаный Обрывок",
+
+  "enchantment.epicenchantments.replanter": "Посев",
+
+  "block.epicenchantments.fertile_soil": "Плодородная Земля",
+  "key.category.epicenchantments": "Epic Enchantments",
+  "key.epicenchantments.switch_item": "Переключиться на Последний Предмет",
+  "key.epicenchantments.music": "Клавиша Что Бы Поменять Музыкальный Плеер",
+  "key.epicenchantments.up": "Поднять Громкость",
+  "key.epicenchantments.down": "Снизить Громкость",
+  "key.epicenchantments.prev": "Предыдущая песня",
+  "key.epicenchantments.next": "Следующая Песня",
+  "key.epicenchantments.pitch_up": "Прибавить скорость Песни",
+  "key.epicenchantments.pitch_down": "Убавить Скорость Песни",
+
+  "enchantment.epicenchantments.vampirism": "Вампиризм",
+  "enchantment.epicenchantments.vampirism.desc": "Отдаёт здаровье того, кого вы аттакуете",
+
+  "enchantment.epicenchantments.impenetrable": "Непробиваемый",
+
+  "enchantment.epicenchantments.filter": "Фильтр",
+  "enchantment.epicenchantments.drill": "Бур",
+
+  "enchantment.epicenchantments.wings_of_god": "Крылья Бога",
+  "enchantment.epicenchantments.wings_of_god.desc": "Даёт защиту на основе других элементов брони",
+
+  "item.epicenchantments.sack": "Мешок",
+  "item.epicenchantments.smerch": "Ручной Ураган",
+  "item.epicenchantments.obsidian_sword": "Закалённый Обсидиановый Меч",
+  "item.epicenchantments.sack.captured": "Захвачен: %s",
+  "item.epicenchantments.sack.no_entity": "Рядом нет существ для захвата!",
+  "item.epicenchantments.sack.contains": "Внутри: %s",
+  "item.epicenchantments.sack.empty": "Пусто"
+}

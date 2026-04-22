@@ -1,0 +1,16 @@
+{
+  "name": "epicenchantments:ferile_soil/start_pool",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "epicenchantments:ferile_soil",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}
+

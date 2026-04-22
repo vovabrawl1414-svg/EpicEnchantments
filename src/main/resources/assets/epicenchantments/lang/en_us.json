@@ -1,0 +1,50 @@
+{
+  "enchantment.epicenchantments.web": "Web",
+  "enchantment.epicenchantments.web.desc": "Mines entire veins of ore at once",
+
+  "enchantment.epicenchantments.magnet": "Magnet",
+  "enchantment.epicenchantments.magnet.desc": "Items automatically go into your inventory",
+
+  "enchantment.epicenchantments.lumberjack": "Timber",
+  "enchantment.epicenchantments.lumberjack.desc": "Fells entire trees at once",
+
+  "enchantment.epicenchantments.automelting": "Auto-Smelt",
+  "enchantment.epicenchantments.automelting.desc": "Automatically smelts mined ores",
+
+  "enchantment.epicenchantments.experience": "Experience",
+  "enchantment.epicenchantments.experience.desc": "Grants bonus experience",
+
+  "enchantment.epicenchantments.impenetrable": "Impenetrable",
+
+  "enchantment.epicenchantments.vampirism": "Vampirism",
+  "enchantment.epicenchantments.vampirism.desc": "Heals you when attacking",
+  "enchantment.epicenchantments.filter": "Filter",
+  "enchantment.epicenchantments.drill": "Excavator",
+
+  "enchantment.epicenchantments.replanter": "Replanter",
+
+  "block.epicenchantments.fertile_soil": "Fertile Soil",
+
+  "key.category.epicenchantments": "Epic Enchantments",
+  "key.epicenchantments.switch_item": "Switch to last picked item",
+  "key.epicenchantments.music": "Key to Switch Music Player",
+  "key.epicenchantments.up": "Volume Up Key",
+  "key.epicenchantments.down": "Volume Down Key",
+  "key.epicenchantments.prev": "Previous Song",
+  "key.epicenchantments.next": "Next Song",
+  "key.epicenchantments.pitch_up": "Pitch Up",
+  "key.epicenchantments.pitch_down": "Pitch Down",
+
+  "item.epicenchantments.scrap": "Leather Scrap",
+
+  "enchantment.epicenchantments.wings_of_god": "Wings of God",
+  "enchantment.epicenchantments.wings_of_god.desc": "Grants protection based on other armor pieces",
+
+  "item.epicenchantments.sack": "Sack",
+  "item.epicenchantments.smerch": "Handheld Hurricane",
+  "item.epicenchantments.obsidian_sword": "Hardened Obsidian Sword",
+  "item.epicenchantments.sack.captured": "Captured %s",
+  "item.epicenchantments.sack.no_entity": "No entity nearby to capture!",
+  "item.epicenchantments.sack.contains": "Contains: %s",
+  "item.epicenchantments.sack.empty": "Empty"
+}

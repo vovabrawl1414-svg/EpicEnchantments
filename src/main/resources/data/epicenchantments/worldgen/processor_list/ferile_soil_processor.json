@@ -1,0 +1,27 @@
+{
+  "processors": [
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:block_match",
+            "block": "minecraft:chest"
+          },
+          "output_state": {
+            "Name": "minecraft:chest",
+            "Properties": {
+              "facing": "south"
+            }
+          },
+          "entity_to_copy": {
+            "LootTable": "epicenchantments:chests/soil"
+          }
+        }
+      ]
+    }
+  ]
+}

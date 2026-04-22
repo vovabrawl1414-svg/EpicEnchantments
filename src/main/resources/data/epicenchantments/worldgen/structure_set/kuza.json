@@ -1,0 +1,26 @@
+{
+  "structures": [
+    {
+      "structure": "epicenchantments:kuza",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 17328467,
+    "spacing": 20,
+    "separation": 8,
+    "frequency": 0.7,
+    "frequency_reduction_method": "legacy_type_3",
+    "super_exclusion_zone": {
+      "chunk_count": 5,
+      "other_set": "minecraft:villages"
+    },
+    "locate_offset": [
+      0,
+      0,
+      0
+    ],
+    "heightmap": "WORLD_SURFACE_WG"
+  }
+}

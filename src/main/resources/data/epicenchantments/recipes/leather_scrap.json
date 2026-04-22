@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "KQK",
+    "QQQ",
+    "QQQ"
+  ],
+  "key": {
+    "K":{
+      "item": "minecraft:string"
+    },
+    "Q":{
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "epicenchantments:scrap"
+  }
+}
